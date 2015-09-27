@@ -12,3 +12,5 @@ try branch
 yet another branch
 
 yet anotherother branch
+
+I edit this in master.
