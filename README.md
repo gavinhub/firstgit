@@ -13,4 +13,6 @@ yet another branch
 
 yet anotherother branch
 
+I edit this in master.
+
 I edit this in another branch, which is a conflict
